@@ -1,10 +1,10 @@
 import { Component, OnInit } from '@angular/core';
-import * as config from '../config';
+import * as config from '../los-gehts/config';
 
 @Component({
   selector: 'app-quote',
   templateUrl: './quote.component.html',
-  styleUrls: ['./quote.component.css']
+  styleUrls: ['./quote.component.scss']
 })
 export class QuoteComponent implements OnInit {
 

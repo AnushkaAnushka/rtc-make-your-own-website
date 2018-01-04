@@ -38,28 +38,6 @@ h4 {
     line-height: 1.2;
 }
 
-footer.footer {
-    background-color: #35b087;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    height: 50px;
-    margin: 100px auto 0 auto;
-    padding: 0 24px;
-}
-
-.footer .text {
-    color: #ffffff;
-}
-
-.footer .link {
-}
-
-.footer .link a {
-    color: #ffffff;
-    text-decoration: underline;
-}
-
 .content {
     margin: 50px 0;
 }

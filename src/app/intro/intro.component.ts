@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import * as config from './../config';
+import * as config from '../los-gehts/config';
 
 @Component({
   selector: 'app-intro',

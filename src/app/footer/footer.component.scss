@@ -1,3 +1,23 @@
-.footer {
+@import './../los-gehts/variablen.scss';
 
+footer.footer {
+  background-color: $farbe_1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 50px;
+  margin: 100px auto 0 auto;
+  padding: 0 24px;
+}
+
+.footer .text {
+  color: #ffffff;
+}
+
+.footer .link {
+}
+
+.footer .link a {
+  color: #ffffff;
+  text-decoration: underline;
 }
