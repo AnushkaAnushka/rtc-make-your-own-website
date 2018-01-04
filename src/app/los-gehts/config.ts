@@ -1,19 +1,17 @@
 'use strict';
 
-export const menu_text = 'Lena Mohr';
-export const menu_logo = '/assets/logo.svg';
+export const menu_text = 'Charlotte Likkei';
+export const menu_logo = '/assets/logo2.svg';
 
-export const header_titel = 'Hallo!';
-export const header_untertitel = 'Willkommen beim "Ready To Code?" Workshop.';
-export const header_bild = 'url("/assets/bg.png")';
+export const header_titel = 'Hallo';
+export const header_untertitel = 'Ich freue mich dich kennenzulernen';
+export const header_bild = 'url("https://cdn.pixabay.com/photo/2017/07/24/19/57/tiger-2535888_960_720.jpg")';
 
-export const intro_titel = 'Das bin ich!';
-export const intro_text = 'Est ipsum consequatur aut rerum ut. Quo harum voluptas voluptate rem. Animi praesentium quidem eos doloremque molestiae non sint.\n' +
-    '\n' +
-    'Quia ducimus vero ipsum eos quibusdam reiciendis ut. Officiis dolorum blanditiis sapiente fugit id est sit nihil. Excepturi non laboriosam neque rem voluptatem vel. Est hic quia magnam. Deserunt quae qui maiores et asperiores. Voluptatem nihil illum nemo illum et tempora fuga autem.';
+export const intro_titel = 'Meine Lebensbeschreibung:';
+export const intro_text = 'Meine gute Laune geht gerade meine Motivation suchen... Oh nein jetzt sind beide weg';
 
-export const intro_bild = '/assets/IMG_2672.JPG';
-export const intro_bild_untertitel = 'Ein Bild aus meinem Urlaub';
+export const intro_bild = 'https://cdn.pixabay.com/photo/2017/03/29/09/59/cat-2184682_960_720.jpg';
+export const intro_bild_untertitel = 'Eine Katze aus der Welt';
 
-export const quote_text = 'Coden ist gar nicht so schwierig!';
-export const quote_autor = 'Lena Mohr';
+export const quote_text = 'Katzen erreichen mühelos was uns Menschen versagt bleibt: durchs Leben zu gehen ohne Lärm zu machen.';
+export const quote_autor = 'Katzenweisheit';
