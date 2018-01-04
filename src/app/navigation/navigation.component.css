@@ -1,0 +1,39 @@
+nav {
+}
+
+.navigation {
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.4);
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 80px;
+    z-index: 1;
+}
+
+.logo {
+    position: absolute;
+    left: 8px;
+    top: 8px;
+    bottom: 2px;
+}
+
+.logo img {
+    height: 60px;
+    width: 60px;
+    max-height: 70px;
+    max-width: 100%;
+}
+
+.title {
+    color: #ffffff;
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 1.2;
+    text-align: center;
+    width: 100%;
+}
