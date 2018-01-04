@@ -4,7 +4,7 @@ export const menu_text = 'Lena Mohr';
 export const menu_logo = '/assets/logo.svg';
 
 export const header_titel = 'Hallo!';
-export const header_untertitel = 'Willkommen beim Ready To Code? Workshop.';
+export const header_untertitel = 'Willkommen beim "Ready To Code?" Workshop.';
 export const header_bild = 'url("/assets/bg.png")';
 
 export const intro_titel = 'Das bin ich!';
