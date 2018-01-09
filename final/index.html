@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="utf-8">
+    <title>Letscode</title>
+    <base href="/">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+    <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+
+    <!-- Start des Menus -->
+    <nav class="navigation">
+
+        <div class="logo">
+            <img src="{{ menu_logo }}" alt="">
+        </div>
+
+        <div class="title">{{ menu_text }}</div>
+
+    </nav>
+    <!-- Ende des Menus -->
+
+    <!-- Start des Headers -->
+    <div class="content">
+        <section class="header" [ngStyle]="{'background-image': header_bild}">
+            <div class="header-image"></div>
+            <div class="header-box">
+                <h1 class="header-title">
+                    {{ header_titel }}
+                </h1>
+                <div class="header-subtitle">
+                    {{ header_untertitel }}
+                </div>
+            </div>
+        </section>
+    </div>
+    <!-- Ende des Headers -->
+
+    <!-- Start des eigenen Inhalts -->
+    <div class="content">
+
+    </div>
+    <!-- Ende des eigenen Inhalts -->
+
+    <!-- Start des Spruches -->
+    <div class="content-full-width">
+        <div class="quote">
+            <div class="quote-text">
+                {{ quote }}
+            </div>
+
+            <div class="quote-subtitle">
+                {{ quote_author }}
+            </div>
+        </div>
+    </div>
+    <!-- Ende des Spruches -->
+
+    <!-- Start der Footer-Zeile -->
+    <footer class="footer">
+        <div class="text">
+            Ready To Code? Workshop Januar 2018
+        </div>
+        <div class="link">
+            <a href="/impressum.html">Impressum</a>
+        </div>
+    </footer>
+    <!-- Ende der Footer-Zeile -->
+
+</body>
+</html>
