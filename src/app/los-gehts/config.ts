@@ -3,9 +3,9 @@
 export const menu_text = 'Immanuel';
 export const menu_logo = '/assets/logo2.svg';
 
-export const header_titel = 'Hallo!';
-export const header_untertitel = 'Willkommen beim "Ready To Code?" Workshop.';
-export const header_bild = 'url("/assets/bg.png")';
+export const header_titel = 'Hallo';
+export const header_untertitel = 'Ich freue mich dich kennenzulernen';
+export const header_bild = 'url("https://cdn.pixabay.com/photo/2017/07/24/19/57/tiger-2535888_960_720.jpg")';
 
 export const intro_titel = 'Das bin ich!';
 export const intro_text = '<i>heyho</i>';
