@@ -1,0 +1,19 @@
+{
+  "name": "rtc-make-your-own-website",
+  "version": "0.0.1",
+  "description": "Dieses Github-Verzeichnis bildet den Startpunkt zum Workshop Ready To Code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ready-to-code/rtc-make-your-own-website.git"
+  },
+  "author": "Ready To Code",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ready-to-code/rtc-make-your-own-website/issues"
+  },
+  "homepage": "https://github.com/ready-to-code/rtc-make-your-own-website#readme"
+}
